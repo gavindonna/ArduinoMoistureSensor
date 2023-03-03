@@ -7,7 +7,6 @@
 #include <seesaw_neopixel.h>
 #include <seesaw_servo.h>
 
-//#include "Adafruit_seesaw.h";
 Adafruit_seesaw ss;
 
 // to communicate with the computer, use one of the following rates and set the serial_baud variable to the value: 
